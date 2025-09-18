@@ -1,16 +1,19 @@
-## Hi there 👋
+# <span style="color:red">Fala aí, eu sou o França</span>
 
-<!--
-**M4C4BU/M4C4BU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+#Técnico em Automação Industrial
+#Estudante de Ciência da Computação
+```
 
-Here are some ideas to get you started:
+## Tecnologias
+<img src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23FFFFFF" width="50" height="50" ></img>
+<img src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23FFFFFF" width="50" height="50"></img>
+<img src="https://devicon-website.vercel.app/api/r/original.svg?color=%23FFFFFF" width="50" height="50"></img>
+<img src="https://devicon-website.vercel.app/api/rstudio/plain.svg?color=%23FFFFFF" width="50" height="50"></img>
+<img src="https://devicon-website.vercel.app/api/c/plain.svg?color=%23FFFFFF" width="50" height="50"></img>
+<img src="https://devicon-website.vercel.app/api/cplusplus/plain.svg?color=%23FFFFFF" width="50" height="50"></img>
+<img src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23FFFFFF" width="50" height="50"></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Microcontrolador e Microcomputador
+<img src="https://devicon-website.vercel.app/api/arduino/plain.svg?color=%23FFFFFF" width="50" height="50"></img>
+<img src="https://devicon-website.vercel.app/api/raspberrypi/line.svg?color=%23FFFFFF" width="50" height="50"></img>
