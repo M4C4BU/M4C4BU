@@ -3,7 +3,7 @@
 ```
 # Technician in Industrial Automation
 # Computer Science Student
-# ICPC Contestant
+# Competitive Programmer
 ```
 
 ### Technologies
