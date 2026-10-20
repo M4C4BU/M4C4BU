@@ -1,12 +1,6 @@
-# Seu Nome
+# João França
 
-[PREENCHER: título curto, por exemplo "Estudante de Ciência da Computação" ou "Desenvolvedor"]
-
-## Sobre mim
-
-Sou [PREENCHER: formação, curso ou área de atuação]. Meu interesse está na interseção entre dados, visualização e programação. Gosto de entender como algoritmos e ferramentas funcionam por dentro, e costumo fazer isso construindo algo concreto.
-
-Os projetos que mais representam o meu trabalho estão fixados logo abaixo. Cada um explora um lado diferente de uma linguagem ou de uma técnica, de clustering em Python a animação em R e renderização 3D em Julia.
+Cientista de Dados
 
 ## Áreas de interesse
 
@@ -33,18 +27,12 @@ Os projetos que mais representam o meu trabalho estão fixados logo abaixo. Cada
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Como eu trabalho
+## Sobre
 
-- **Aprendo construindo.** Parto da teoria, mas só considero que entendi quando consigo aplicar num projeto.
-- **Documento o que faço.** Cada projeto tem README e código comentado, pensados para que outra pessoa consiga rodar e entender.
-- **Exploro além do uso comum.** Gosto de testar até onde uma ferramenta consegue ir, como usar uma biblioteca de gráficos para criar animações e cenas 3D.
+Estudante de Ciência da Computação na UFRRJ, com foco em Ciência de Dados, Inteligência Artificial e desenvolvimento de software.
+Venho desenvolvendo conhecimentos em Python, SQL, Julia e R com experiência em ferramentas e bibliotecas do ecossistema de dados, como NumPy, Pandas, Matplotlib e Scikit-learn. Tenho interesse em análise e visualização de dados, Machine Learning e desenvolvimento de soluções baseadas em dados.
+Minha formação também inclui o curso técnico em Automação Industrial, que contribuiu para minha base em lógica, programação e resolução de problemas.
+Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados e Machine Learning por meio de cursos, projetos práticos e estudos contínuos, buscando aplicar esses conhecimentos na resolução de problemas reais.
 
-## Atualmente
 
-- [PREENCHER: o que você está estudando ou construindo agora]
-- [PREENCHER: o que você busca, por exemplo estágio, oportunidades ou colaboração em projetos]
-
-## Contato
-
-- LinkedIn: [seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- Email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+Os projetos que mais representam o meu trabalho estão fixados logo abaixo. Cada um explora um lado diferente de uma linguagem ou de uma técnica, de clustering em Python a animação em R e renderização 3D em Julia.
