@@ -1,51 +1,50 @@
-<div align="center">
+# Seu Nome
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060d,50:3d5bff,100:b04dff&height=220&section=header&text=SEU+NOME&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dados+%C2%B7+arte+generativa+%C2%B7+c%C3%B3digo&descSize=18&descAlignY=58" alt="banner" />
+[PREENCHER: título curto, por exemplo "Estudante de Ciência da Computação" ou "Desenvolvedor"]
 
-<a href="https://github.com/seu-usuario">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8FA8FF&center=true&vCenter=true&width=560&lines=Aprendendo+construindo;Python+%C2%B7+Julia+%C2%B7+R+%C2%B7+C+%C2%B7+C%23;Visualiza%C3%A7%C3%A3o+de+dados+e+arte+generativa" alt="Typing SVG" />
-</a>
+## Sobre mim
 
-</div>
+Sou [PREENCHER: formação, curso ou área de atuação]. Meu interesse está na interseção entre dados, visualização e programação. Gosto de entender como algoritmos e ferramentas funcionam por dentro, e costumo fazer isso construindo algo concreto.
 
----
+Os projetos que mais representam o meu trabalho estão fixados logo abaixo. Cada um explora um lado diferente de uma linguagem ou de uma técnica, de clustering em Python a animação em R e renderização 3D em Julia.
 
-## Sobre
+## Áreas de interesse
 
-Eu aprendo construindo. Cada projeto aqui nasceu de uma pergunta do tipo "até onde essa ferramenta vai?", e o jeito mais rápido que encontrei de responder é fazendo.
+- Visualização de dados e computação gráfica
+- Algoritmos de aprendizado de máquina aplicados na prática
+- Linguagens de programação e compiladores
+- Desenvolvimento de jogos
 
-- 🔭 Explorando visualização de dados e arte generativa
-- 🧠 Estudando algoritmos na prática, tirando eles da teoria
-- 🎮 Fazendo jogos e compiladores pra entender como as coisas funcionam por dentro
-- 📫 [PREENCHER: curso, área ou o que você está estudando]
+## Tecnologias
 
-## Linguagens e ferramentas
+**Linguagens**
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Dados e visualização**
 
-</div>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge) ![GLMakie](https://img.shields.io/badge/GLMakie-9558B2?style=for-the-badge)
 
-## Projetos em destaque
+**Compiladores e jogos**
 
-Uma série em que exploro o lado menos óbvio de cada linguagem:
+![Flex](https://img.shields.io/badge/Flex-555555?style=for-the-badge) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**Sistema Solar 3D**](https://github.com/seu-usuario/sistema-solar-julia) | Os 8 planetas orbitando o Sol em velocidades relativas, com rastros e renderização em tempo real | Julia, GLMakie |
-| [**Gerador de Paleta de Cores**](https://github.com/seu-usuario/paleta-cores-python) | Extrai as cores dominantes de uma imagem com K-Means e mostra a distribuição em gráficos | Python, scikit-learn, Matplotlib |
-| [**Prisma em Flow Field**](https://github.com/seu-usuario/prisma-flow-field-r) | Linhas de luz que entram num prisma e saem como espectro, em animação de loop contínuo | R, ggplot2 |
-| [**Compilador com Flex**](https://github.com/seu-usuario/compilador-flex) | Compilador feito em grupo com análise léxica em Flex | C, Flex |
-| [**Sapo Samurai**](https://github.com/seu-usuario/sapo-samurai) | Jogo de um sapo samurai feito na Unity | Unity, C# |
+**Ferramentas**
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b04dff,50:3d5bff,100:05060d&height=120&section=footer" alt="footer" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+## Como eu trabalho
+
+- **Aprendo construindo.** Parto da teoria, mas só considero que entendi quando consigo aplicar num projeto.
+- **Documento o que faço.** Cada projeto tem README e código comentado, pensados para que outra pessoa consiga rodar e entender.
+- **Exploro além do uso comum.** Gosto de testar até onde uma ferramenta consegue ir, como usar uma biblioteca de gráficos para criar animações e cenas 3D.
+
+## Atualmente
+
+- [PREENCHER: o que você está estudando ou construindo agora]
+- [PREENCHER: o que você busca, por exemplo estágio, oportunidades ou colaboração em projetos]
+
+## Contato
+
+- LinkedIn: [seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- Email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
