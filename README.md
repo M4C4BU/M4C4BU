@@ -4,10 +4,10 @@ Cientista de Dados
 
 ## Áreas de interesse
 
-- Visualização de dados e computação gráfica
-- Algoritmos de aprendizado de máquina aplicados na prática
+- Análise e visualização de dados
+- Computação gráfica
+- Algoritmos de aprendizado de máquina
 - Linguagens de programação e compiladores
-- Desenvolvimento de jogos
 
 ## Tecnologias
 
@@ -29,10 +29,6 @@ Cientista de Dados
 
 ## Sobre
 
-Estudante de Ciência da Computação na UFRRJ, com foco em Ciência de Dados, Inteligência Artificial e desenvolvimento de software.
-Venho desenvolvendo conhecimentos em Python, SQL, Julia e R com experiência em ferramentas e bibliotecas do ecossistema de dados, como NumPy, Pandas, Matplotlib e Scikit-learn. Tenho interesse em análise e visualização de dados, Machine Learning e desenvolvimento de soluções baseadas em dados.
-Minha formação também inclui o curso técnico em Automação Industrial, que contribuiu para minha base em lógica, programação e resolução de problemas.
-Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados e Machine Learning por meio de cursos, projetos práticos e estudos contínuos, buscando aplicar esses conhecimentos na resolução de problemas reais.
+Estudante de Ciência da Computação na UFRRJ, com foco em Ciência de Dados, Inteligência Artificial e desenvolvimento de software. Minha formação também inclui o curso técnico em Automação Industrial, que contribuiu para minha base em lógica, programação e resolução de problemas.
 
-
-Os projetos que mais representam o meu trabalho estão fixados logo abaixo. Cada um explora um lado diferente de uma linguagem ou de uma técnica, de clustering em Python a animação em R e renderização 3D em Julia.
+Os projetos que mais representam o meu trabalho estão fixados logo abaixo. Cada um explora um lado diferente de uma linguagem ou de uma técnica.
