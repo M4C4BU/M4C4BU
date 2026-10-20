@@ -1,7 +1,3 @@
-# João França
-
-Cientista de Dados
-
 ## Sobre
 
 Estudante de Ciência da Computação na UFRRJ, com foco em Ciência de Dados, Inteligência Artificial e desenvolvimento de software. Minha formação também inclui o curso técnico em Automação Industrial, que contribuiu para minha base em lógica, programação e resolução de problemas.
